@@ -365,11 +365,3 @@ If the command completes without errors, ✅ success.
 This guide is provided under the **MIT License**.
 
 Feel free to use, modify, and distribute it. If you found it helpful, a ⭐ on GitHub is appreciated!
-
----
-
-<p align="center">
-  <strong>Made with ❤️ for the Tailscale & Linux community</strong>
-  <br>
-  <sub>Last updated: May 2026</sub>
-</p>
