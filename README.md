@@ -18,8 +18,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/license/eprahemi/tailscale-samba-guide?style=flat-square" alt="License">
-  <img src="https://img.shields.io/github/stars/eprahemi/tailscale-samba-guide?style=flat-square" alt="Stars">
+  <img src="https://img.shields.io/github/license/eprahemi/Tailscale-File-Sharing?style=flat-square" alt="License">
+  <img src="https://img.shields.io/github/stars/eprahemi/Tailscale-File-Sharing?style=flat-square" alt="Stars">
   <img src="https://img.shields.io/badge/prerequisites-2%20machines%20on%20Tailscale-blue?style=flat-square" alt="Prerequisites">
 </p>
 
