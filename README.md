@@ -245,6 +245,8 @@ Open **PowerShell as Administrator**:
 
 ```powershell
 net user smbuser YOUR_PASSWORD /add        # YOUR_PASSWORD = any password (e.g. mypassword123)
+```
+```powershell
 net localgroup Administrators smbuser /add
 ```
 
