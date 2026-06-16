@@ -244,7 +244,7 @@ Example: Your Windows IP → 100.103.197.14
 Open **PowerShell as Administrator**:
 
 ```powershell
-net user smbuser YOUR_PASSWORD /add        # YOUR_PASSWORD = any password (e.g. mypassword123)
+net user smbuser eprahemi /add
 ```
 ```powershell
 net localgroup Administrators smbuser /add
