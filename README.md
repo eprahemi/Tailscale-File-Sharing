@@ -260,6 +260,9 @@ In **PowerShell (Admin)**:
 reg add HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v LocalAccountTokenFilterPolicy /t REG_DWORD /d 1 /f
 ```
 
+[preview](imgae.png)
+Make Sure You Share You LocalDisk C or D or whatever one you have
+
 **🔁 Restart your computer** for the change to take effect.
 
 ### Step 5 — Connect to Fedora from File Explorer
